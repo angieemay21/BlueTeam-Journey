@@ -1,4 +1,4 @@
-# TryHackMe_Challenges
-Documentación sobre la realización de distintos retos en TryHackMe.com
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-En este repositorio documento los pasos que he tomado a la hora de realizar los distintos retos dentro de la página de TryHackMe junto con la dificultad de cada uno y las herramientas necesarias para completarlos.
+# BlueTeam-Journey
+# Aquí voy a documentar mi camino aprendiendo más sobre cómo formar parte del Blue Team dentro de la ciberseguridad
+En este repositorio vais a encontrar sobre todo documentación de varias fuentes que iré explicando en apartados divididos por dificultad.
+También nombraré dichas fuentes que voy usando en este camino de aprendizaje junto con las herramientas que vaya aprendiendo por el camino.
